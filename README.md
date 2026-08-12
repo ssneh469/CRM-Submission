@@ -6,6 +6,11 @@ Mini ERP + CRM built with Next.js, Better Auth, PostgreSQL, and Drizzle ORM. The
 - Products: manage inventory, stock levels, and stock movement history.
 - Sales Challans: create, confirm, deliver, and track dispatch challans while updating stock automatically.
 
+## Deployment
+
+- Live Demo URL: [https://crm-submission.vercel.app](https://crm-submission.vercel.app)
+- Live Backend API Base: `https://crm-submission.vercel.app/api`
+
 ## Tech Stack
 
 - Next.js 16
