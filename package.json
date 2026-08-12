@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "db:init": "node scripts/init-db.mjs",
+    "db:seed-auth": "node scripts/seed-auth-users.mjs",
     "db:seed": "node scripts/seed-demo.mjs",
     "lint": "eslint ."
   },
